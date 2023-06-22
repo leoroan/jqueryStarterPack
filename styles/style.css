@@ -308,16 +308,6 @@ template {
   display: none;
 }
 
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-.col {
-  border: 2px solid blueviolet !important;
-}
-
-.row {
-  border: 2px solid rgb(43, 255, 0) !important;
+.prueba {
+  background-color: red;
 }/*# sourceMappingURL=style.css.map */
